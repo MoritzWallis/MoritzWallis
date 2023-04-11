@@ -1,6 +1,7 @@
-- Hi 👋, DinosaurMoritz
+- Hi 👋, my name is Moritz Wallis.
 - I'm interested in computer science concepts and programming.
-- I learn best by coding up some small but fun projects like 3d projection or Neural Networks.
+- I learn best by coding up some small but fun projects.
+- I want to use but especially understand how technology works.
 
 
 <!---
